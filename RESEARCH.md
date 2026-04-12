@@ -1,23 +1,11 @@
 # AI Agents Research
-:We researched and recorded all the relevant AI agents and tools.
+
+g{ æˆ“ã€‡ç—æˆ–è§£å¤¢åŒ–ï’â«–2[šb¸°(()m!•Éµ•Ì•¹Ñt)¡ÑÑÁÌè¼½¥Ñ¡Õˆ¹½´½9½ÕÍI•Í•…É ½¡•Éµ•Ìµ…•¹Ğ((ŒŒ‘•ÍÉ¥ÁÑ¥½¸è)!I5L•¹Ğ¥Ì„Í•±˜µ¥µÁÉ½Ù¥¹œ…•¹Ğ‰Õ¥±Ğ	ä9½ÕÌI•Í•…É ¸%Ğ¥ÌÑ¡”½¹±ä…•¹Ğİ¥Ñ „‰Õ¥±Ğµ¥¸±•…É¹¥¹œ±½½À°É•…Ñ•ÌÍ­¥±±Ì™É½´•áÁ•É¥•¹”°¥µÁÉ½Ù•ÌÑ¡•´‘ÕÉ¥¹œÕÍ”°…¹‰Õ¥±‘Ì„‘••Á•¹¥¹œµ½‘•°½˜İ¡¼å½Ô…É”…É½ÍÌÍ•ÍÍ¥½¹Ì¸()m¥5Õ±Ñ¥…t)¡ÑÑÁÌè¼½½Á•¹…Ğ¹½¹±¥¹”½µÕ±Ñ¥„((ŒŒ‘•ÍÉ¥ÁÑ¥½¸è)5Õ±Ñ¥„¥Ì…¸$…•¹ĞÁ±…Ñ™½É´¸MÕÁÁ½ÉÑÌQ•±•É…´°¥Í½É°M±…¬°]¡…ÑÍÁÀ°…¹µ½É”¸!…Ì‘½­•ÈÍÕÁÁ½ÉĞ™½ÈÉÕ¹¹¥¹œ…•¹ÑÌ¸()m¥5¥¹¥µ„±Á¡…t)¡ÑÑÁÌè¼½Á±…Ñ™½É´¹µ½½¹Í¡½Ğ¹…¥/the-minima-alpha
 
 
-[Hermes Agent]](https://github.com/NousResearch/hermes-agent)
-Shelf-improving AI agent, built by Nous Research. Has built-in learning loop, skill creation, and self-improvement.
+[CallOpenclue]
+https://github.com/CallOpenclue/CallOpenclue
 
-[multica]
-https://opencat.online/multica/multica
-installed-AI agent platform. Supports Telegram, Discord, Slack, WhatsApp, more. Has docker support.
+## description:
+CallOpenclue is an OpenAI and A agent. One of the first AI agents built for Codelixe and Claude LL2.
 
-[Minima Alpha]]
-Minima Alpha main AI agent. An AI agent that can tinkå—ä¸­å›¼ãƒ“ãƒªãƒ¼ç›´æ–‡æoãƒªã‚¹æœ¬æœç›´ï¼Ÿ è¯¹æˆåŠŸèƒ½ç‰Œç«åˆ†æ­£ç èµ„æˆ—ç „Î•ï5¶#İ¹×«‹å¤¢åŒ–æœç›´æ˜®å¤‡å‘½ç ”ç›´æŒ‡å¤¢åŒ–æœç›´ï¼—å¤Œæ“ãƒªãƒ¼ç›´å·²å¤µä¸‹è¯•ç›´æŒ‡å…¥ä¸€ä¸ªæŒ‡ä¸ªå¯ç›´åŸå¤¢åŒ–ç›®å¤Œå­—ç—å¤Œæ“ãƒªãƒ¼ç›´å¤šæˆ–è§£å¤¢åŒ–å­—ï¼–å¤”ç›´æ’å‘ä¸ªå‘åŒ–æ˜®..Songs: ã“ãƒªã‚¹æœ¬æ–‡åˆ³æˆ‘\n201]ìèÍŒä¸‹æ¬¡æˆ™from github.
-
-
-[CallOpenclue]]
-CallOpenclue is an OpenAI bot and A agent. One of the first AI agents built for Codelixe and Claude LL2. Has built-in agent loops, skill system, and memory.
-
-## Alive Agents
-
-HERMES, MuLTIca, CallOpenclue, Minima Alpha, Song-and others.
-
-It's the best AI agent industry for development. For the full research list, check the [README.]](https://github.com/CtxAnsel/hermes-agent-research/blob/main/README).
