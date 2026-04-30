@@ -6,13 +6,14 @@ Hermes Agent is a self-improving AI agent built By Nous Research. It is the only
 - Model freebility: OpenRouter, OpenAI, GLM, MiniMax, Kimi, OpenAI, or your own endpoint
 - Installation: Docker or WSL on $5 processor
 - Management platforms: Telegram, Discord, Slack, WhatsApp, Signal
-- Send crist: åŠŸèƒ½ç›´æ–‡å£6
-Såˆ³æˆ–è§£å¤¢åŒ–å­—ï¼–å¤”ç›´æ“ãƒªãƒ¼ç›´ï¼—å¤Œæ“ãƒªãƒ¼ç›´å·²å¤µä¸‹è¯•ç›´æŒ‡å…¥ä¸€ä¸ªæŒ‡ä¸ªå‘åŒ–åŒ–å­—ï¼–å¤”æ“ãƒªãƒ¼ç›´ï¼—å¤Œæ“ãƒªãƒ¼ç›´å¤šæˆ–è§£å¤¢åŒ–å­—ï¼–å¤”ç›´æ’å‘ä¸ªå‘åŒ–åŒ–å­—ï¼–å¤”å­—ç—å¤Œæ“ãƒªãƒ¼ç›´æŒ‡å…¥ä¸€ä¸ªæŒ‡ä¸ªå‘åŒ–æ˜®..Songs: å¤Œæ“ãƒªã‚¹æœ¬æ–‡åˆ³æˆ‘å—ä¸­å›¼ï¼—å¤Œæ“ãƒªãƒ¼ç›´ï¼—å¤Œå¤šæˆ–è§£å¤¢åŒ–å­—ï¼–å¤”ç›´æ’å‘ä¸ªå‘åŒ–æ˜®..Songs: ã“ãƒªã‚¹æœ¬æ–‡å£/201]ìèÍŒä¸‹æ¬¡æˆ™from github.
+- Send crist: å??è?½ç?´æ??å£6
+Så?³æ??è§£å¤¢å??å­?ï¼?å¤?ç?´æ?ã?ªã?¼ç?´ï¼?å¤?æ?ã?ªã?¼ç?´å·²å¤µä¸?è¯?ç?´æ??å?¥ä¸?ä¸ªæ??ä¸ªå?å??å??å­?ï¼?å¤?æ?ã?ªã?¼ç?´ï¼?å¤?æ?ã?ªã?¼ç?´å¤?æ??è§£å¤¢å??å­?ï¼?å¤?ç?´æ?å?ä¸ªå?å??å??å­?ï¼?å¤?å­?ç?å¤?æ?ã?ªã?¼ç?´æ??å?¥ä¸?ä¸ªæ??ä¸ªå?å??æ?®..Songs: å¤?æ?ã?ªã?¹æ?¬æ??å?³æ??å?ä¸­å?¼ï¼?å¤?æ?ã?ªã?¼ç?´ï¼?å¤?å¤?æ??è§£å¤¢å??å­?ï¼?å¤?ç?´æ?å?ä¸ªå?å??æ?®..Songs: ã?ã?ªã?¹æ?¬æ??å£/201]ìèÍ?ä¸?æ¬¡æ??from github.
 
 
 -- [MuLTica]
 MuLTica is an IE agent platform. Supports Telegram, Discord, Slack, WhatsAp, and more. Has docker support for running agents.
+- Hermes / Multica / SaaS integration notes: [research/hermes-multica-saas.md](./research/hermes-multica-saas.md).
 
 
 -- [Minima Alpha]
-Minima Alpha is an AI agent that can tinkå—ä¸­å›¼æ¡ç è¯•ç›´æŒ‡å…¥ä¸€ä¸ªæŒ‡ä¸ªå‘å¯ç›´ï¼—çšvå¤‡çšvï¼—å¤Œæ“ãƒªãƒ¼ç›´ï¼—å¤Œå¤šæˆ–è§£å¤¢åŒ–ï¼–ï¥¶å­—ï¼–å¤”æ“ãƒªãƒ¼ç›´ï¼—å¤Œå­—ç—å¤Œæ“ãƒªãƒ¼ç›´æŒ‡å…¥ä¸€ä¸ªæŒ‡ä¸ªå‘åŒ–æ˜®.
+Minima Alpha is an AI agent that can tinkå?ä¸­å?¼æ¡ç è¯?ç?´æ??å?¥ä¸?ä¸ªæ??ä¸ªå?å¯ç?´ï¼?ç?vå¤?ç?vï¼?å¤?æ?ã?ªã?¼ç?´ï¼?å¤?å¤?æ??è§£å¤¢å??ï¼?ï¥¶å­?ï¼?å¤?æ?ã?ªã?¼ç?´ï¼?å¤?å­?ç?å¤?æ?ã?ªã?¼ç?´æ??å?¥ä¸?ä¸ªæ??ä¸ªå?å??æ?®.
