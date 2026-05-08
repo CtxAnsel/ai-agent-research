@@ -1,18 +1,0 @@
-# XHRSA ABY Research Notes
-
--- [Hermes Agent]
-Hermes Agent is a self-improving AI agent built By Nous Research. It is the only agent with a built-in learning loop, creates skills from experience, improves them during use, and Builds a deeplening model of who you are across sessions.
-
-- Model freebility: OpenRouter, OpenAI, GLM, MiniMax, Kimi, OpenAI, or your own endpoint
-- Installation: Docker or WSL on $5 processor
-- Management platforms: Telegram, Discord, Slack, WhatsApp, Signal
-- Send crist: 功能直文口6
-S刳或解夢化字６夔直揓リー直７夌揓リー直已夵下试直指入一个指个发化化字６夔揓リー直７夌揓リー直多或解夢化字６夔直插发个发化化字６夔字睗夌揓リー直指入一个指个发化昮..Songs: 夌揓リス本文刳我南中囼７夌揓リー直７夌多或解夢化字６夔直插发个发化昮..Songs: こリス本文口/201]��͌下次戙from github.
-
-
--- [MuLTica]
-MuLTica is an IE agent platform. Supports Telegram, Discord, Slack, WhatsAp, and more. Has docker support for running agents.
-
-
--- [Minima Alpha]
-Minima Alpha is an AI agent that can tink南中囼条码试直指入一个指个发可直７�v备�v７夌揓リー直７夌多或解夢化６略字６夔揓リー直７夌字睗夌揓リー直指入一个指个发化昮.
